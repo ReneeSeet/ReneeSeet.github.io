@@ -1626,7 +1626,7 @@
 
 	h3 {
 		font-size: 1.25em;
-		line-height: 0em;
+		line-height: 1.5em;
 	}
 
 	h4 {
@@ -1994,7 +1994,6 @@
 			-webkit-transition: opacity 0.2s ease-in-out;
 			-ms-transition: opacity 0.2s ease-in-out;
 			transition: opacity 0.2s ease-in-out;
-			background: url("images/overlay.png");
 			border-radius: 0.35em;
 			content: '';
 			display: block;
